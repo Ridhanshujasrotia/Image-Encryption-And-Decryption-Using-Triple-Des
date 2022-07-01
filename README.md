@@ -1,1 +1,1 @@
-# Image-Encryption-Decryption-Using-Triple-Des
+# Image-Encryption-And-Decryption-Using-Triple-Des
